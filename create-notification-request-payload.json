@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "notification-configurations",
+    "attributes": {
+      "destination-type": "generic",
+      "enabled": true,
+      "name": "Webhook server test",
+      "url": "https://75352b579e4bbb426ae02e833024f277.m.pipedream.net",
+      "triggers": [
+        "run:applying",
+        "run:completed",
+        "run:created",
+        "run:errored",
+        "run:needs_attention",
+        "run:planning"
+      ]
+    }
+  }
+}
