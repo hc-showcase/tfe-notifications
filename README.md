@@ -289,4 +289,4 @@ Execute the following to create a notification configuration. Set the TOKEN, WOR
 ```
 ##
 
-More details can be found here: (API Documentation)[https://www.terraform.io/docs/cloud/api/notification-configurations.html]
+More details can be found here: [API Documentation](https://www.terraform.io/docs/cloud/api/notification-configurations.html)
