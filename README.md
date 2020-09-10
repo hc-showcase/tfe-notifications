@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 * AWS Account
-* An endpoint that should be triggered by TFE. You can create one for testing purposes at [RequestBin](https://requestbin.com/?gclid=EAIaIQobChMIy7Lqqcfb6wIVCdZ3Ch38wgr-EAAYASAAEgKu7vD_BwE)
+* An endpoint that should be triggered by TFC/TFE. You can create one for testing purposes at [RequestBin](https://requestbin.com/?gclid=EAIaIQobChMIy7Lqqcfb6wIVCdZ3Ch38wgr-EAAYASAAEgKu7vD_BwE)
 * Access to TFE or TFC and a user token
 
 ## Create the notification configuration
