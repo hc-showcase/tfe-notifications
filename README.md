@@ -28,11 +28,10 @@ mkaesz@arch ~/w/tfe-notifactions> cat create-notification-request-payload.json
     }
   }
 }
-
-Set the url and the triggers accordingly.
 ```
+Set the url and the triggers accordingly.
 
-Execute the following to create a notification configuration. Set the TOKEN, WORKSPACE and the TFE/TFE URL variable accordingly.
+Execute the following to create a notification configuration. Set the TOKEN, WORKSPACE and the TFC/TFE URL variable accordingly.
 
 ```./create-notification.sh```
 
